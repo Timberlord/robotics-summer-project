@@ -25,8 +25,11 @@ I’ve always been passionate about robotics, and this project is my step forwar
 ## Timeline
 | Week | Plan |
 | 1 | Repo setup, part research, initial ideas |
+
 | 2 | Begin writing code + start logging |
+
 | 3–5 | Hardware arrives → build + test |
+
 | 6–8 | Polish design, finalize documentation |
 
 ---
