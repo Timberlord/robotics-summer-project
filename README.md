@@ -9,10 +9,10 @@ This is a robotics project that I’m building over the summer as part of my per
 - Get better at programming with C/C++ and documenting my process
 
 ## Why This Project?
-I’ve always been passionate about robotics, and this project is my step forward — from interest to actual experience. I’m treating this like a personal internship and growth space.
+I’ve always been passionate about robotics, and this project is my step forward — from interest to actual experience. This is simply a personal project and growth space.
 
 ## Current Status
--  Created GitHub repo and started documenting
+- Created GitHub repo and started documenting
 - Waiting on hardware deliveries
 - Testing small parts of code and planning design
 - Journaling daily/weekly logs and thoughts
